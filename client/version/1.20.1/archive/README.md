@@ -1,0 +1,1 @@
+This directory is currently empty for now, but it will eventually hold older versions of the modpack.

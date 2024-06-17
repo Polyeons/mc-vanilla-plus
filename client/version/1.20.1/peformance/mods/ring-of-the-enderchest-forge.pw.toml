@@ -1,0 +1,13 @@
+name = "Ring of the Enderchest [FORGE/NEOFORGE]"
+filename = "RingOfEnderchest-Forge-1.20.1-1.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6a697b261630c44bf51bf41d753a41543fc5fc1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5140849
+project-id = 332596

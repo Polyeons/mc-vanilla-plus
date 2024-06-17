@@ -1,0 +1,13 @@
+name = "Real Seasons"
+filename = "realseasons-1.20.1-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5de6ead0dc8f27d84d772b5d54868b57bc1f2cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4728681
+project-id = 900962

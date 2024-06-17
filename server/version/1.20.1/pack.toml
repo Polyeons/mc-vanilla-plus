@@ -1,0 +1,12 @@
+name = "Minecraft Vanilla++ (Server)"
+version = "v0.1.6b"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "182ab22d810a46f6588d83f691bde20bd32530d90d27023ee0cea7e5d14982d4"
+
+[versions]
+forge = "47.3.0"
+minecraft = "1.20.1"

@@ -1,0 +1,13 @@
+name = "AniTexLib"
+filename = "anitexlib-0.2.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c05f6d458d9e2b576191ebbad2d917a5980e67c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5408630
+project-id = 1011434

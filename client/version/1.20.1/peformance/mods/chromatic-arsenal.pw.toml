@@ -1,0 +1,13 @@
+name = "Chromatic Arsenal"
+filename = "chromaticarsenal-1.20.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11608b7bde54aee7b7d6ca86bb84c50d9da3cc76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5369583
+project-id = 656420

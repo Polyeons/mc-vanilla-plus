@@ -1,0 +1,13 @@
+name = "Crumbs' Deepslate Button"
+filename = "deepslate_button-Forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "971618126d8977db920026c6296e601f4d8ec5e9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5179688
+project-id = 986551

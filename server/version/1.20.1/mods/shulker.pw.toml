@@ -1,0 +1,13 @@
+name = "Shulker+"
+filename = "shulkerplus-mc1.20.1-v1.0.7-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ebe3a96a64e6b6008180e27f008ffc80a03b2477"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4755820
+project-id = 911786

@@ -1,0 +1,13 @@
+name = "AppliedE"
+filename = "appliede-0.12.0-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9428bf314f82b679576ea8193e4338f44fe13c36"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5407050
+project-id = 1009940

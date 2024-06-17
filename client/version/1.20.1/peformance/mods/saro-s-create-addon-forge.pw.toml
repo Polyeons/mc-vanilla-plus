@@ -1,0 +1,13 @@
+name = "Saro´s Create [Forge]"
+filename = "Saros-Create-Addon-1.20.1-2.0-[Forge].jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ae81e0df5e1968debd27b5c4d7b02347ffbae72e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4902547
+project-id = 834892

@@ -1,0 +1,13 @@
+name = "Friends&Foes - Flowery Mooblooms (Forge/NeoForge)"
+filename = "friendsandfoes-flowerymooblooms-forge-mc1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4fff777c37196908fb620856663336e6c67454a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5034684
+project-id = 782443

@@ -1,0 +1,8 @@
+[
+  {
+    "serverName": "Minecraft: Vanilla++ SMP",
+    "serverIP": "192.168.1.129",
+    "forceResourcePack": "true",
+    "_comment": "Change values above to your desired server (Change local to actual domain)"
+  }
+]

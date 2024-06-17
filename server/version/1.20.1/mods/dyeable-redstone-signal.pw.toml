@@ -1,0 +1,13 @@
+name = "Dyeable Redstone Signal"
+filename = "dyeable_redstone_signal-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "052be6b5f9f3ff8bb7849215fca5a7da263131b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4704447
+project-id = 643176

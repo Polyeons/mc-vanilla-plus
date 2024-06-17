@@ -1,0 +1,13 @@
+name = "Mob Catcher [FABRIC/FORGE/NEOFORGE]"
+filename = "MobCatcher-Forge-1.20.1-1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2fb45c3c361479e0a6684080c4f97feafc6b98fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5126446
+project-id = 498389

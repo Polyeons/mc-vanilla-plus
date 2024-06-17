@@ -1,0 +1,13 @@
+name = "Tool Leveling+ [Forge]"
+filename = "toolleveling-forge-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbb6bafc1712da227086e4259f84c58371b7850d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4693328
+project-id = 397255

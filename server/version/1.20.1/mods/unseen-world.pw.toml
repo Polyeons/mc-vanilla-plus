@@ -1,0 +1,13 @@
+name = "Unseen World"
+filename = "unseen_world-3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "791e1f8c06eaa5831484fb618540faa8e4c7a32a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5431680
+project-id = 550263

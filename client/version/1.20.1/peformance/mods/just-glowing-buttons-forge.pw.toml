@@ -1,0 +1,13 @@
+name = "Just Glowing Buttons (Forge)"
+filename = "just_glowing_buttons-1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7d9c850653bf611e92a58060d5c3606e2c57e5dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5367775
+project-id = 1023886

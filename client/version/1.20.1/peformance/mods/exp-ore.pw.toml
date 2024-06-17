@@ -1,0 +1,13 @@
+name = "Exp Ore"
+filename = "expore-1.20.1-0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0aca765e4dbe3744ca4d4307ce45068485f48e1a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5085468
+project-id = 907633

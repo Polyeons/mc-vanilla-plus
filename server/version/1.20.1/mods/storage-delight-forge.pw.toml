@@ -1,0 +1,13 @@
+name = "Storage Delight (Forge)"
+filename = "storagedelight-1.1.1-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ae73f34f6f28a7d0269d639a3eb45edd77b79f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5305247
+project-id = 979761

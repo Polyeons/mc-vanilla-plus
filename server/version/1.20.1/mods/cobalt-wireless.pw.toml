@@ -1,0 +1,13 @@
+name = "Cobalt Wireless"
+filename = "cobaltwireless1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab4f6bbe13c9dcb7a5355aceb052f40bb04fe77d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4981330
+project-id = 953859
