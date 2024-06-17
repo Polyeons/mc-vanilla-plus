@@ -1,6 +1,4 @@
-<img align="center" width="282" length="76" src="assets/images/Vanilla+.png" alt="Minecraft: Vanilla+">
-
-<img align="center" width="282" length="76" src="assets/images/Vanilla++.png" alt="Minecraft: Vanilla++">
+<img align="center" width="282" length="76" src="assets/images/Vanilla+.png" alt="Minecraft: Vanilla+"  src="assets/images/Vanilla++.png" alt="Minecraft: Vanilla++">
 
 # Minecraft: Vanilla+ | Minecraft: Vanilla++
 
