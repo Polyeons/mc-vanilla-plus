@@ -1,7 +1,7 @@
-<img align="top" width="282" length="76" 
-    src="assets/images/Vanilla+.png" alt="Minecraft: Vanilla+"  
-    src="assets/images/Vanilla++.png" alt="Minecraft: Vanilla++"
->
+<p float="left"> 
+    <img src="assets/images/Vanilla+.png" alt="Minecraft: Vanilla+" width="282" length="76">
+    <img src="assets/images/Vanilla++.png" alt="Minecraft: Vanilla++" width="282" length="76">
+</p>
 
 # Minecraft: Vanilla+ | Minecraft: Vanilla++
 
