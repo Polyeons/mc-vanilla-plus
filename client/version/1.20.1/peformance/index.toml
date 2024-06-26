@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/desiredservers/desiredservers.json"
-hash = "b6f27b225340d8f63d871b68236a3ddbd0216b621bd23fbcce97560f711f326f"
+hash = "024447874e5f05412d8caa6e180ef32f87aad373849f86f76362fff768272874"
 
 [[files]]
 file = "config/drippyloadingscreen/options.txt"

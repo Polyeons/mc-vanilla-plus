@@ -1,7 +1,7 @@
 [
   {
     "serverName": "Minecraft: Vanilla++ SMP",
-    "serverIP": "192.168.1.129",
+    "serverIP": "mc.polyeons.tech",
     "forceResourcePack": "true",
     "_comment": "Change values above to your desired server (Change local to actual domain)"
   }
